@@ -1,5 +1,3 @@
 # Data-Science(test)
 
-$$
-\int_a^b f(x)dx
-$$
+$$ \int_a^b f(x)dx $$
